@@ -1,5 +1,6 @@
 module.exports = {
     title: '前端记录',
+    base:'/tech/',
     description: 'welcome to my tech blog',
     markdown:{
         lineNumbers: true
