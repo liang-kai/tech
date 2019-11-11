@@ -1,7 +1,7 @@
 module.exports = {
     title: '前端记录',
     base:'/tech/',
-    description: 'welcome to my tech blog',
+    description: '欢迎来到我的博客',
     markdown:{
         lineNumbers: true
     },
