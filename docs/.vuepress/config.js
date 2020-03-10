@@ -7,7 +7,8 @@ module.exports = {
     },
     themeConfig:{
         nav:[
-            {text:'Blog', link:'/blog/'}
+            {text:'Blog', link:'/blog/'},
+            {text:'语言特性', link:'/js语言特性/'}
         ],
         sidebar:{
             '/blog/':[
