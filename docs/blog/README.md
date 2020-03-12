@@ -1,3 +1,4 @@
-# 编码 read me
+# 见左侧目录
 
-see ![https://yhlben.github.io/](https://yhlben.github.io/)
+本章节多是一些浏览器的知识
+
